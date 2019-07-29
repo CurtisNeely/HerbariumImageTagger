@@ -1,0 +1,30 @@
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\AutomaticHerbariumTagger.exe.config
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\AutomaticHerbariumTagger.exe
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\AutomaticHerbariumTagger.pdb
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csprojAssemblyReference.cache
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.Form1.resources
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.Properties.Resources.resources
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csproj.GenerateResource.cache
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csproj.CoreCompileInputs.cache
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csproj.CopyComplete
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.exe
+C:\Users\cneely\Desktop\rbg\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.pdb
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\AutomaticHerbariumTagger.exe.config
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\AutomaticHerbariumTagger.exe
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\AutomaticHerbariumTagger.pdb
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csprojAssemblyReference.cache
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.Form1.resources
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.Properties.Resources.resources
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csproj.GenerateResource.cache
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csproj.CoreCompileInputs.cache
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.csproj.CopyComplete
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.exe
+C:\Users\cneely\Desktop\rbg - Copy\AutomaticHerbariumTagger\AutomaticHerbariumTagger\obj\Release\AutomaticHerbariumTagger.pdb
